@@ -1,10 +1,25 @@
-# Hi there 👋, I'm Othman
+<p align="center">
+  <h1>Hi 👋, I'm Othman</h1>
+</p>
 
-🎓 **Software Engineering Student** | 💻 **Full-Stack & Software Developer**
+<p align="center">
+  <b>Software Engineering Student · Web & Backend Developer · Freelancer</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TON_PROFIL_LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:othmanghannam.pro@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
 
 - 🔭 Je suis étudiant en ingénierie logicielle et développe des projets Web & Backend.
 - 🎯 Mon objectif : Proposer des solutions Full-Stack performantes et me lancer en freelance.
-- 📫 Me contacter : **[othmanghannam.pro@gmail.com](mailto:othmanghannam.pro@gmail.com)**
 
 ---
 
