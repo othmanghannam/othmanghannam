@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineering Student · Web & Backend Developer · Freelancer</b>
+  <b>Software Engineering Student at @INPT</b>
 </p>
 
 <p align="center">
